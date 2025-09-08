@@ -1,0 +1,1 @@
+console.log('DANCE MEMORY COACH v10 funcionando');
